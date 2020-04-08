@@ -1,0 +1,6 @@
+puts "Bonjour, toi"
+#puts "et avec une voix sexy : comment cv?"
+~                                       
+# exo3.rb:3: syntax error, unexpected end-of-input
+...                               
+...       
